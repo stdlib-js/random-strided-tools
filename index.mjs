@@ -1,0 +1,4 @@
+// Copyright (c) 2024 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
+/// <reference types="./index.d.ts" />
+import t from"https://cdn.jsdelivr.net/gh/stdlib-js/utils-define-read-only-property@v0.1.1-esm/index.mjs";import r from"https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-tools-binary-factory@esm/index.mjs";export{default as binaryFactory}from"https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-tools-binary-factory@esm/index.mjs";import s from"https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-tools-unary-factory@esm/index.mjs";export{default as unaryFactory}from"https://cdn.jsdelivr.net/gh/stdlib-js/random-strided-tools-unary-factory@esm/index.mjs";var d={};t(d,"binaryFactory",r),t(d,"unaryFactory",s);export{d as default};
+//# sourceMappingURL=index.mjs.map
