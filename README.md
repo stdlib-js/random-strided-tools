@@ -76,6 +76,14 @@ The namespace contains the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`binaryFactory( prng )`][@stdlib/random/strided/tools/binary-factory]</span><span class="delimiter">: </span><span class="description">create a factory function for filling strided arrays with pseudorandom values drawn from a binary PRNG.</span>
+-   <span class="signature">[`ternaryFactory( prng )`][@stdlib/random/strided/tools/ternary-factory]</span><span class="delimiter">: </span><span class="description">create a factory function for filling strided arrays with pseudorandom values drawn from a ternary PRNG.</span>
+-   <span class="signature">[`unaryFactory( prng )`][@stdlib/random/strided/tools/unary-factory]</span><span class="delimiter">: </span><span class="description">create a factory function for filling strided arrays with pseudorandom values drawn from a unary PRNG.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -180,6 +188,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/random-strided-tools/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/random-strided-tools/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/random/strided/tools/binary-factory]: https://github.com/stdlib-js/random-strided-tools-binary-factory
+
+[@stdlib/random/strided/tools/ternary-factory]: https://github.com/stdlib-js/random-strided-tools-ternary-factory
+
+[@stdlib/random/strided/tools/unary-factory]: https://github.com/stdlib-js/random-strided-tools-unary-factory
+
+<!-- </toc-links> -->
 
 </section>
 
